@@ -1,0 +1,13 @@
+site_name: Documentação
+
+repo_name: G1Bet-Doc
+repo_url: https://github.com/PI-DH-Grupo01/G1Bet-Doc
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
