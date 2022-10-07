@@ -11,3 +11,11 @@ theme:
 
   features:
     - navigation.tabs
+
+nav:
+  - Artefatos:
+      - Identidade Visual: identidade_visual.md
+  - Sprints:
+    - Sprint1:
+      - Planning: sprints/sprint1/planning.md
+
