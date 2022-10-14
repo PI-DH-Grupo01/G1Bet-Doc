@@ -4,7 +4,7 @@
 
 |    Data    | Versão |                Descrição                |                       Ator(es)                       |
 | :--------: | :----: | :-------------------------------------: | :--------------------------------------------------: |
-| 14/10/2022 |  0.1   | Adiciona requisitos iniciais levantados | [Gabriel Marcolino](https://github.com/GabrielMR360) |
+| 14/10/2022 |  0.1   | Adiciona requisitos iniciais levantados | [Gabriel Marcolino](https://github.com/GabrielMR360), [Amanda Luiza](https://github.com/amandailg), [Carla Vitoria](https://github.com/Carla-Vitoria), [Júlio Batista](https://github.com/iamjuliobatista), [Alexandre](https://github.com/Alexandrecode)|
 
 ## Requisitos Funcionais
 

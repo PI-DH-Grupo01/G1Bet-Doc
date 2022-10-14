@@ -2,9 +2,15 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão |                    Descrição                    |                       Ator(es)                       |
-| :--------: | :----: | :---------------------------------------------: | :--------------------------------------------------: |
-| 14/10/2022 |  0.1   | Adicionando versão inicial da identidade visual | [Gabriel Marcolino](https://github.com/GabrielMR360) |
+|    Data    | Versão |                    Descrição                    |                       Ator(es)                        |
+| :--------: | :----: | :---------------------------------------------: | :---------------------------------------------------: |
+| 14/10/2022 |  0.1   | Adicionando versão inicial da identidade visual | [Gabriel Marcolino](https://github.com/GabrielMR360), [Amanda Luiza](https://github.com/amandailg), [Carla Vitoria](https://github.com/Carla-Vitoria), [Júlio Batista](https://github.com/iamjuliobatista), [Alexandre](https://github.com/Alexandrecode)|
+
+
+[Amanda Luiza](https://github.com/amandailg),    
+[Carla Vitoria](https://github.com/Carla-Vitoria),
+[Júlio Batista](https://github.com/iamjuliobatista)
+[Alexandre](https://github.com/Alexandrecode)
 
 ## Cores
 
