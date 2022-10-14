@@ -8,7 +8,9 @@
 
 ## Cores
 
-### Cores principais
+![Paleta de cores](imagesn/../../imagens/paleta_de_cores.png)
+
+### **Cores principais**
 
 <div style="background-color: #388E3C; height:30px; width:15px; margin-right: 20px; border-radius: 5px">
     <div style="margin-left: 30px"; >
@@ -26,7 +28,7 @@ Utilizada em elementos de navegação.
 
 Utilizada como cor de fundo.
 
-### Cores secundárias
+### **Cores secundárias**
 
 <div style="background-color: #F6F6F6; height:30px; width:15px; margin-right: 20px; border-radius: 5px">
     <div style="margin-left: 30px">
@@ -40,7 +42,9 @@ Utilizada nas fontes.
     <div style="margin-left: 30px">
         <b>#BA0F0F</b>
     </div>
-</div>  
+</div> 
+
+Utilizada para mensagens de erro ou alertas.
 
 ## Tipografia
 
