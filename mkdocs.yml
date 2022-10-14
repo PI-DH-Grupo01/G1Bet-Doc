@@ -14,7 +14,8 @@ theme:
 
 nav:
   - Artefatos:
-      - Identidade Visual: identidade_visual.md
+      - Identidade Visual: artefatos/identidade_visual.md
+      - Requisitos: artefatos/requisitos.md
   - Sprints:
     - Sprint1:
       - Planning: sprints/sprint1/planning.md
