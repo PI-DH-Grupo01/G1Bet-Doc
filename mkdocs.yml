@@ -16,6 +16,7 @@ nav:
   - Artefatos:
       - Início: artefatos/inicio.md
       - Identidade Visual: artefatos/identidade_visual.md
+      - Protótipos: artefatos/prototipos/prototipos.md
       - Requisitos: artefatos/requisitos.md
   - Sprints:
     - Sprint1:
