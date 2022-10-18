@@ -20,7 +20,7 @@
 ### **Fluxo de login**
 
 - Usuário vai logar na plataforma.
-- A partir da tela inicial ele pode ter dois caminhos:
+- A partir da tela de login ele pode ter dois caminhos:
     1. Entrar na plataforma com seu login.
     2. Cadastrar uma nova conta caso não tenha.
 
@@ -53,5 +53,5 @@
 
 ### **Fluxo de atualizar dados**
 
-- Usuário altera os dados que deseja e clica em atualiza para salvar as mudanças.
-- Usuário pode cancelar a ação e voltar para tele do perfil.
+- Usuário altera os dados que deseja e clica em atualizar para salvar as mudanças.
+- Usuário pode cancelar a ação e voltar para o seu perfil.
