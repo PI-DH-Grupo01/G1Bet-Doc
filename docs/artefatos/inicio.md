@@ -1,4 +1,4 @@
-**O G1Bet é uma API de apostas de futebol que está sendo desenvolvida pelos integrantes do grupo01, para o projeto integrador da Digital House em parceiria com a Empiricus**.
+**O G1Bet é uma API de apostas de futebol que está sendo desenvolvida pelos integrantes do grupo 01, para o projeto integrador da Digital House em parceria com a Empiricus**.
 
 ## Integrantes do grupo
 

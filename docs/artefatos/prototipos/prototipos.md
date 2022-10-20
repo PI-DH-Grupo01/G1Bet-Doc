@@ -19,7 +19,7 @@
 
 ### **Fluxo de login**
 
-- Usuário vai logar na plataforma.
+- O usuário vai logar na plataforma.
 - A partir da tela de login ele pode ter dois caminhos:
     1. Entrar na plataforma com seu login.
     2. Cadastrar uma nova conta caso não tenha.
@@ -28,7 +28,7 @@
 
 - Usuário preenche os campos obrigatórios para o cadastro.
 - Após o preenchimento ele clica em cadastrar e entra na plataforma.
-- Usuário pode cancelar a ação e voltar para tele de login.
+- O usuário pode cancelar a ação e voltar para tela de login.
 
 ### **Fluxo inicial**
 
@@ -38,18 +38,18 @@
    
 ### **Fluxo aposta**
 
-- Usuário seleciona o time em que ela deseja apostar e em seguida seleciona qual o tipo de aposta.
-- Usuário pode voltar para tela inicial ou ver seu perfil.
+- O usuário seleciona o time em que deseja apostar e em seguida seleciona qual o tipo de aposta.
+- O usuário pode voltar para tela inicial ou ver seu perfil.
 
 ### **Fluxo perfil**
 
 - Usuário tem vários caminhos que podem ser seguidos:
     1. Atualizar dados do usuário.
-    2. Exibir os histórico das suas apostas.
-    3. Consultar as estatisticas do seu perfil.
+    2. Exibir o histórico das suas apostas.
+    3. Consultar as estatísticas do seu perfil.
     4. Contatar o suporte.
     5. Sair da conta.
-- Usuário pode voltar para tela inicial.
+- O usuário pode voltar para tela inicial.
 
 ### **Fluxo de atualizar dados**
 
