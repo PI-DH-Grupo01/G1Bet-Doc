@@ -20,5 +20,7 @@ nav:
       - Requisitos: artefatos/requisitos.md
   - Sprints:
     - Sprint1:
-      - Planning: sprints/sprint1/planning.md
+      - Planning: sprints/sprint1/planning/planning.md
+      - Review: sprints/sprint1/review/review.md
+      - Retrospective: sprints/sprint1/retrospective/retrospective.md
 

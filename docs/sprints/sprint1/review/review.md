@@ -2,9 +2,9 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão | Descrição |                       Ator(es)                       |
-| :--------: | :----: | :-------: | :--------------------------------------------------: |
-| 19/10/2022 |  0.1   |           | [Gabriel Marcolino](https://github.com/GabrielMR360) |
+|    Data    | Versão |         Descrição         |                       Ator(es)                       |
+| :--------: | :----: | :-----------------------: | :--------------------------------------------------: |
+| 20/10/2022 |  0.1   | Adiciona review da sprint | [Gabriel Marcolino](https://github.com/GabrielMR360) |
 
 ## Duração e quando ocorreu
 

@@ -10,9 +10,9 @@
 
 |                           Issues                            | Concluído |
 | :---------------------------------------------------------: | :-------: |
-|          Desenvolver identidade visual do projeto           |   - [ ]   |
-|                 Identificação das features                  |   - [ ]   |
-| Desenvolver documento com os requisitos e regras de negócio |   - [ ]   |
-|            Fazer o protótipo de baixa fidelidade            |   - [ ]   |
+|          Desenvolver identidade visual do projeto           |  - [ x ]  |
+|                 Identificação das features                  |  - [ x ]  |
+| Desenvolver documento com os requisitos e regras de negócio |  - [ x ]  |
+|            Fazer o protótipo de baixa fidelidade            |  - [ x ]  |
 
 
