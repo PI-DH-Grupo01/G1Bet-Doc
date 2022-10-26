@@ -20,6 +20,7 @@
 | RF07  | Exibir o histórico das últimas partidas do time |            |
 | RF08  | Cancelar uma aposta                             |            |
 | RF09  | Escolher o tipo de aposta                       |            |
+| RF10  | Realizar login do usuário                       |            |
 
 ## Regras de negócio
 
@@ -30,7 +31,7 @@
 | RN01  | O usuário pode realizar somente uma aposta.                                             |
 | RN02  | Apostas só serão aceitas antes do jogo começar.                                         |
 | RN03  | Só serão aceitas apostas de usuários cadastrados.                                       |
-| RN04  | Dados de CPF, email e data de nascimento passarão por validação na momento do cadastro. |
+| RN04  | Dados de CPF, email e data de nascimento passarão por validação no momento do cadastro. |
 | RN05  | Apostas só serão validadas após comprovação de pagamento.                               |
 | RN06  | Odds serão estabelecidas de acordo com o mercado.                                       |
 

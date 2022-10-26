@@ -23,4 +23,6 @@ nav:
       - Planning: sprints/sprint1/planning/planning.md
       - Review: sprints/sprint1/review/review.md
       - Retrospective: sprints/sprint1/retrospective/retrospective.md
+    - Sprint2:
+      - Planning: sprints/sprint2/planning/planning.md
 
