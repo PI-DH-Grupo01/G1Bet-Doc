@@ -18,6 +18,7 @@ nav:
       - Identidade Visual: artefatos/identidade_visual.md
       - Protótipos: artefatos/prototipos/prototipos.md
       - Requisitos: artefatos/requisitos.md
+      - Diagrama Entidade e Relacionamento: artefatos/diagrama_db.md
   - Sprints:
     - Sprint1:
       - Planning: sprints/sprint1/planning/planning.md
