@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+**O G1Bet é uma API de apostas de futebol que está sendo desenvolvida pelos integrantes do grupo 01, para o projeto integrador da Digital House em parceria com a Empiricus**.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Integrantes do grupo
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| [<img src="https://avatars.githubusercontent.com/u/61991357?v=4" width=115><br><sub>Gabriel Marcolino</sub>](https://github.com/GabrielMR360) | [<img src="https://avatars.githubusercontent.com/u/107211940?s=421&v=4" width=115><br><sub>Carla Vitória</sub>](https://github.com/Carla-Vitoria) | [<img src="https://avatars.githubusercontent.com/u/104176853?v=4" width=115><br><sub>Amanda Luiza</sub>](https://github.com/amandailg) | [<img src="https://avatars.githubusercontent.com/u/95377180?v=4" width=115><br><sub>Júlio Batista</sub>](https://github.com/iamjuliobatista) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
