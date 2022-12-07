@@ -12,6 +12,10 @@ theme:
   features:
     - navigation.tabs
 
+markdown_extensions:
+  - pymdownx.tasklist
+  - pymdownx.emoji
+
 nav:
   - Artefatos:
       - Início: artefatos/inicio.md
@@ -20,16 +24,17 @@ nav:
       - Requisitos: artefatos/requisitos.md
       - Diagrama Entidade e Relacionamento: artefatos/diagrama_db.md
   - Sprints:
-    - Sprint1:
-      - Planning: sprints/sprint1/planning/planning.md
-      - Review: sprints/sprint1/review/review.md
-      - Retrospective: sprints/sprint1/retrospective/retrospective.md
-    - Sprint2:
-      - Planning: sprints/sprint2/planning/planning.md
-      - Review: sprints/sprint2/review/review.md
-      - Retrospective: sprints/sprint2/retrospective/retrospective.md
-    - Sprint3:
-      - Planning: sprints/sprint3/planning/planning.md
-  - Políticas do repositório: 
-    - Como contribuir: contributing.md
-
+      - Sprint1:
+          - Planning: sprints/sprint1/planning/planning.md
+          - Review: sprints/sprint1/review/review.md
+          - Retrospective: sprints/sprint1/retrospective/retrospective.md
+      - Sprint2:
+          - Planning: sprints/sprint2/planning/planning.md
+          - Review: sprints/sprint2/review/review.md
+          - Retrospective: sprints/sprint2/retrospective/retrospective.md
+      - Sprint3:
+          - Planning: sprints/sprint3/planning/planning.md
+          - Review: sprints/sprint3/review/review.md
+          - Retrospective: sprints/sprint3/retrospective/retrospective.md
+  - Políticas do repositório:
+      - Como contribuir: contributing.md

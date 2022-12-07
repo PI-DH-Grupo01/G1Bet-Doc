@@ -4,7 +4,7 @@
 
 |    Data    | Versão |            Descrição             |                       Ator(es)                       |
 | :--------: | :----: | :------------------------------: | :--------------------------------------------------: |
-| 09/11/2022 |  0.1   | Adiciona retrospectiva da sprint | [Gabriel Marcolino](https://github.com/GabrielMR360) |
+| 09/11/2022 |  1.0   | Adiciona retrospectiva da sprint | [Gabriel Marcolino](https://github.com/GabrielMR360) |
 
 ## Pontos levantados
 
